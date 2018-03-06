@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cyYNjqa" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cyYNjqa" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" __cid="cyYNjqa" class="cyYNjqa"/>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pcaQBZbu-iosstatusbar cyYNjqa" xid="mapPanel" style="z-index:1;" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cyYNjqa"> 
+    <div class="x-panel-top cyYNjqa" xid="top3" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cyYNjqa"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cyYNjqa" xid="titleBar2" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" data-config="{&quot;title&quot;:&quot;BIM+GIS一张图&quot;}" __cid="cyYNjqa"> 
+        <div class="x-titlebar-left cyYNjqa" xid="hideMapPanel" __cid="cyYNjqa"> 
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-link cyYNjqa" xid="hideMapBtn" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;返回&quot;}" __cid="cyYNjqa"> 
+            <i xid="i16" __cid="cyYNjqa" class="cyYNjqa"/>  
+            <span xid="span23" __cid="cyYNjqa" class="cyYNjqa"/> 
+          </a> 
+        </div>  
+        <div class="x-titlebar-title cyYNjqa" xid="div12" __cid="cyYNjqa">BIM+GIS一张图</div>  
+        <div class="x-titlebar-right  cyYNjqa" xid="div13" __cid="cyYNjqa">
+          <div class="empty cyYNjqa" __cid="cyYNjqa"/>
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cyYNjqa" xid="mapArea" style="font-size:0" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cyYNjqa"> 
+      <iframe style="width:100%;height:100%;border:0;" src="$model/UI2/BIM/bim.html" __cid="cyYNjqa" class="cyYNjqa"/> 
+    </div>  
+    <style __cid="cyYNjqa" class="cyYNjqa">.x-panel.pcaQBZbu-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pcaQBZbu-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pcaQBZbu-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pcaQBZbu-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pcaQBZbu-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pcaQBZbu-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pcaQBZbu-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pcaQBZbu-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pcaQBZbu-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

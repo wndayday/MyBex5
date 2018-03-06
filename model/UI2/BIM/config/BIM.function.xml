@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root><item display="solid" label="BIM+GIS"><item label="BIM" process="/BIM/BIM/process/BIM/bIMProcess" activity="mainActivity" url="$UI/BIM/BIM/process/BIM/mainActivity.a"></item></item></root>
